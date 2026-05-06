@@ -1,0 +1,16 @@
+{
+  "name": "gitscope-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitScope deployed on Netlify with Netlify Functions and MongoDB Atlas.",
+  "scripts": {
+    "build": "echo \"GitScope static frontend ready\"",
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "mongoose": "^8.9.5"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.38.1"
+  }
+}
