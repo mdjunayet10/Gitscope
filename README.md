@@ -1,5 +1,6 @@
 # GitScope
 
+
 GitScope is a GitHub portfolio analyzer for developers and recruiters. It evaluates public GitHub profiles, repository quality, documentation signals, activity patterns, career-fit indicators, and research validation metrics using GitHub data.
 
 This version is ready for **Netlify deployment** with:
